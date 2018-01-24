@@ -1,0 +1,477 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"redwoods",
+				"redwoods_state_park"
+			],
+			[
+				"error",
+				"error_404"
+			],
+			[
+				"auth",
+				"auth_logout"
+			],
+			[
+				"auth_",
+				"auth_authenticate"
+			],
+			[
+				"pay",
+				"payment_request"
+			],
+			[
+				"payme",
+				"payment_request"
+			],
+			[
+				"pre",
+				"preferredList"
+			],
+			[
+				"coin",
+				"contains"
+			],
+			[
+				"get",
+				"getChocked"
+			],
+			[
+				"getPe",
+				"getPeerID"
+			],
+			[
+				"opti",
+				"optimisticUnchokedPeer"
+			],
+			[
+				"opt",
+				"optimisticUnchokedPeer"
+			],
+			[
+				"inter",
+				"interestedPeers"
+			],
+			[
+				"choke",
+				"chokedPeers"
+			],
+			[
+				"lock",
+				"lockChokedPeers"
+			],
+			[
+				"req",
+				"requestedPieces"
+			],
+			[
+				"bit",
+				"bitfieldSize"
+			],
+			[
+				"write",
+				"writeFilePiece"
+			],
+			[
+				"fil",
+				"FileName"
+			],
+			[
+				"Peer",
+				"PeerMessenger"
+			],
+			[
+				"out",
+				"outgoingMessages"
+			],
+			[
+				"pie",
+				"pieceNumber"
+			],
+			[
+				"ou",
+				"outgoingNotifications"
+			],
+			[
+				"ex",
+				"exception"
+			],
+			[
+				"list",
+				"listOfPeers"
+			],
+			[
+				"num",
+				"pieceNumber"
+			],
+			[
+				"inte",
+				"interestedPeers"
+			],
+			[
+				"pu",
+				"pieceNumber"
+			],
+			[
+				"pi",
+				"pieceNumber"
+			],
+			[
+				"com",
+				"compareTo"
+			],
+			[
+				"syn",
+				"synchronized"
+			],
+			[
+				"boo",
+				"boolean"
+			],
+			[
+				"in",
+				"interestingPieces"
+			],
+			[
+				"DEBUG",
+				"DEBUG_LEVEL"
+			],
+			[
+				"file",
+				"fileSize"
+			],
+			[
+				"re",
+				"received"
+			],
+			[
+				"Han",
+				"HandshakeMessage"
+			],
+			[
+				"send",
+				"sendMessage"
+			],
+			[
+				"mess",
+				"messageCount"
+			],
+			[
+				"lis",
+				"listOfPeers"
+			],
+			[
+				"par",
+				"parseInt"
+			],
+			[
+				"peer",
+				"peerID"
+			],
+			[
+				"prop",
+				"propiedad"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 119.0,
+		"last_filter": "Package Control: Install ",
+		"selected_items":
+		[
+			[
+				"Package Control: Install ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Enable Package"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/dayron/Desktop/trydjango1.11"
+	],
+	"file_history":
+	[
+		"/Users/dayron/Downloads/figures/index.html",
+		"/Users/dayron/Downloads/tree-to-html/index.html",
+		"/Users/dayron/Downloads/tree-to-html/sample-tree.png",
+		"/Users/dayron/Downloads/index 2.html",
+		"/Users/dayron/Desktop/magnorealty.com/core/views.py",
+		"/Users/dayron/Desktop/magnorealty.com/config/urls.py",
+		"/Users/dayron/Desktop/magnorealty.com/core/urls.py",
+		"/Users/dayron/Desktop/magnorealty.com/config/settings/local.py",
+		"/Users/dayron/Desktop/magnorealty.com/core/utils.py",
+		"/Users/dayron/Desktop/magnorealty.com/website/urls.py",
+		"/Users/dayron/Desktop/magnorealty.com/website/views.py",
+		"/Users/dayron/Desktop/magnorealty.com/sample-apache.conf",
+		"/Users/dayron/Desktop/magnorealty.com/.gitattributes",
+		"/Users/dayron/Desktop/spiffy-django-template/Vagrantfile",
+		"/Users/dayron/Desktop/spiffy-django-template/sample-apache.conf",
+		"/Users/dayron/Desktop/spiffy-django-template/website/templates/website/home_page.html",
+		"/Users/dayron/Desktop/spiffy-django-template/website/templates/website/profile.html",
+		"/Users/dayron/Desktop/spiffy-django-template/core/templates/registration/login_page.html",
+		"/Users/dayron/Desktop/spiffy-django-template/config/settings/base.py",
+		"/Users/dayron/Desktop/spiffy-django-template/config/urls.py",
+		"/Users/dayron/Desktop/spiffy-django-template/core/urls.py",
+		"/Users/dayron/Desktop/spiffy-django-template/website/views.py",
+		"/Users/dayron/Desktop/spiffy-django-template/website/urls.py",
+		"/Users/dayron/Desktop/spiffy-django-template/core/utils.py",
+		"/Users/dayron/Desktop/spiffy-django-template/core/views.py",
+		"/Users/dayron/Desktop/spiffy-django-template/get-mailhog.bash",
+		"/Users/dayron/Desktop/spiffy-django-template/.gitattributes",
+		"/Users/dayron/Desktop/spiffy-django-template/make-prodenv",
+		"/Users/dayron/Desktop/spiffy-django-template/config/settings/local.py",
+		"/Users/dayron/Desktop/spiffy-django-template/README.md",
+		"/Users/dayron/Desktop/spiffy-django-template/sample-secrets.json",
+		"/Users/dayron/Desktop/spiffy-django-template/secrets.json",
+		"/Users/dayron/Desktop/thespiffycloud.com/website/views.py",
+		"/Users/dayron/Desktop/thespiffycloud.com/website/templates/registration/login.html",
+		"/Users/dayron/Desktop/thespiffycloud.com/website/urls.py",
+		"/Users/dayron/Desktop/thespiffycloud.com/config/settings/local.py",
+		"/Users/dayron/Desktop/thespiffycloud.com/website/templates/website/profile.html",
+		"/Users/dayron/Desktop/thespiffycloud.com/website/templates/recaptcha/recaptcha.html",
+		"/Users/dayron/Desktop/thespiffycloud.com/website/widgets.py",
+		"/Users/dayron/Desktop/thespiffycloud.com/website/fields.py",
+		"/Users/dayron/Desktop/thespiffycloud.com/website/templates/website/base.html",
+		"/Users/dayron/Desktop/thespiffycloud.com/website/utils.py",
+		"/Users/dayron/Desktop/thespiffycloud.com/website/forms.py",
+		"/Users/dayron/Desktop/thespiffycloud.com/config/urls.py",
+		"/Users/dayron/Desktop/thespiffycloud.com/website/static/website/css/style.css",
+		"/Users/dayron/Desktop/thespiffycloud.com/contact/views.py",
+		"/Users/dayron/Desktop/thespiffycloud.com/contact/utils.py",
+		"/Users/dayron/Desktop/thespiffycloud.com/contact/templates/contact/contact_message_sent.html",
+		"/Users/dayron/Desktop/magnorealty.com/website/locale/pt/LC_MESSAGES/django.po",
+		"/Users/dayron/Desktop/magnorealty.com/website/locale/es/LC_MESSAGES/django.po",
+		"/Users/dayron/Desktop/thespiffycloud.com/payments/urls.py",
+		"/Users/dayron/Desktop/thespiffycloud.com/payments/views.py",
+		"/Users/dayron/Desktop/thespiffycloud.com/payments/templates/payments/payment.html",
+		"/Users/dayron/Desktop/thespiffycloud.com/payments/models.py",
+		"/Users/dayron/Desktop/thespiffycloud.com/payments/utils.py",
+		"/Users/dayron/Desktop/thespiffycloud.com/contact/urls.py",
+		"/Users/dayron/Desktop/thespiffycloud.com/contact/templates/contact/contact_page.html",
+		"/Users/dayron/Desktop/thespiffycloud.com/contact/templates/contact/contact_page_message_sent.html",
+		"/Users/dayron/Desktop/thespiffycloud.com/payments/forms.py",
+		"/Users/dayron/Desktop/thespiffycloud.com/website/templates/website/payment.html",
+		"/Users/dayron/Desktop/thespiffycloud.com/payments/templates/payments/payment_succeeded.html",
+		"/Users/dayron/Desktop/thespiffycloud.com/config/settings/prod.py",
+		"/Users/dayron/Desktop/thespiffycloud.com/website/admin.py",
+		"/Users/dayron/Desktop/thespiffycloud.com/payments/admin.py",
+		"/Users/dayron/Desktop/thespiffycloud.com/payments/apps.py",
+		"/Users/dayron/Desktop/thespiffycloud.com/payment/views.py",
+		"/Users/dayron/Desktop/thespiffycloud.com/payment/urls.py",
+		"/Users/dayron/Desktop/thespiffycloud.com/website/models.py",
+		"/Users/dayron/Desktop/thespiffycloud.com/payment/models.py",
+		"/Users/dayron/Desktop/thespiffycloud.com/payment/forms.py",
+		"/Users/dayron/Desktop/thespiffycloud.com/payment/utils.py",
+		"/Users/dayron/Desktop/thespiffycloud.com/payment/apps.py",
+		"/Users/dayron/Desktop/thespiffycloud.com/website/templates/website/home.html",
+		"/Users/dayron/Desktop/thespiffycloud.com/.ebextensions/django.config",
+		"/Users/dayron/Desktop/thespiffycloud.com/.elasticbeanstalk/config.yml",
+		"/Users/dayron/Desktop/thespiffycloud.com/config/settings/base.py",
+		"/Users/dayron/Desktop/thespiffycloud.com/config/wsgi.py",
+		"/Users/dayron/Desktop/thespiffycloud.com/secrets.json",
+		"/Users/dayron/Desktop/thespiffycloud.com/config/fixtures/superuser.json",
+		"/Users/dayron/Desktop/thespiffycloud.com/make-clean",
+		"/Users/dayron/Desktop/thespiffycloud.com/.gitignore",
+		"/Users/dayron/Desktop/thespiffycloud.com/.gitattributes",
+		"/Users/dayron/Desktop/thespiffycloud.com/make-prodenv",
+		"/Users/dayron/Desktop/thespiffycloud.com/make-devenv",
+		"/Users/dayron/Desktop/thespiffycloud.com/manage.py",
+		"/Users/dayron/Desktop/thespiffycloud.com/requirements.txt",
+		"/Users/dayron/Desktop/thespiffycloud.com/run-server",
+		"/Users/dayron/Desktop/thespiffycloud.com/sample-apache.conf",
+		"/Users/dayron/Desktop/thespiffycloud.com/sample-secrets.json",
+		"/Users/dayron/Desktop/thespiffycloud.com/Vagrantfile",
+		"/Users/dayron/Desktop/magnorealty.com/.ebextensions/django.config",
+		"/Users/dayron/Desktop/magnorealty.com/.ebextensions/1-get-secrets.config",
+		"/Users/dayron/Desktop/magnorealty.com/.ebextensions/2-django.config",
+		"/Users/dayron/Desktop/magnorealty.com/ebextensions/django.config",
+		"/Users/dayron/Desktop/magnorealty.com/.gitignore",
+		"/Users/dayron/Desktop/magnorealty.com/config/settings/prod.py",
+		"/Users/dayron/Desktop/magnorealty.com/config/settings/base.py",
+		"/Users/dayron/Desktop/Vagrantfile.rb",
+		"/Users/dayron/Desktop/magnorealty.com/website/forms.py",
+		"/Users/dayron/Desktop/magnorealty.com/website/apps.py",
+		"/Users/dayron/Desktop/magnorealty.com/config/wsgi.py",
+		"/Users/dayron/Desktop/magnorealty.com/website/utils_zillowapi.py",
+		"/Users/dayron/Desktop/magnorealty.com/website/utils.py",
+		"/Users/dayron/Desktop/magnorealty.com/website/utils_zillowerrors.py",
+		"/Users/dayron/Desktop/magnorealty.com/config/fixtures/superuser.json",
+		"/Users/dayron/Desktop/magnorealty.com/make-clean",
+		"/Users/dayron/Desktop/magnorealty.com/make-devenv",
+		"/Users/dayron/Desktop/magnorealty.com/make-prodenv",
+		"/Users/dayron/Desktop/magnorealty.com/manage.py",
+		"/Users/dayron/Desktop/magnorealty.com/Vagrantfile",
+		"/Users/dayron/Desktop/magnorealty.com/run-server",
+		"/Users/dayron/Desktop/magnorealty.com/README.md",
+		"/Users/dayron/Desktop/cnt5106-p2p/peerProcess.java",
+		"/Users/dayron/Desktop/cnt5106-p2p/PeerInfo.cfg",
+		"/Users/dayron/Desktop/cnt5106-p2p/Common.cfg",
+		"/Users/dayron/Desktop/cnt5106-p2p/Logger.java",
+		"/Users/dayron/Desktop/cnt5106-p2p/OptimisticUnchokeProcessor.java",
+		"/Users/dayron/Desktop/cnt5106-p2p/PreferredNeighborsProcessor.java",
+		"/Users/dayron/Desktop/cnt5106-p2p/Makefile",
+		"/Users/dayron/Desktop/cnt5106-p2p/Peer.java",
+		"/Users/dayron/Desktop/cnt5106-p2p/MessagesSender.java",
+		"/Users/dayron/Desktop/cnt5106-p2p/PeerProcessServer.java",
+		"/Users/dayron/Desktop/cnt5106-p2p/FileHandler.java",
+		"/Users/dayron/Desktop/cnt5106-p2p/MessagesReceiver.java",
+		"/Users/dayron/Desktop/cnt5106-p2p/PeerProcessClient.java",
+		"/Users/dayron/Desktop/cnt5106-p2p/peer_1002/TestFile.txt",
+		"/Users/dayron/Desktop/cnt5106-p2p/CreateBigFile.java",
+		"/Users/dayron/Desktop/cnt5106-p2p/Message.java"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "muypicky.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 233.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
